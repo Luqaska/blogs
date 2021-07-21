@@ -1,7 +1,7 @@
 <?php $title="Frifoss";
 $description="Noticias sobre Frifoss";
 $website="https://frifoss.repl.co";
-$custom_css="https://raw.githubusercontent.com/lucotoh/blogs/main/frifoss.css";
+$custom_css="https://kit.frifoss.repl.co/blog.css";
 $utterances='';
 $posts=[
     ["8/7/2021","¡¡¡Nuevo canal de noticias!!!","Inaguramos este canal de noticias para documentar novedades y cosas de Frifoss :D"],
